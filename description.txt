@@ -1,0 +1,8 @@
+/modules
+
+    TITLES = []                 ||              'name'
+    ROUTER = []                 ||              document.getElementById('page') 
+    HASH = []                   ||              '/name'
+    fastRouter = Class          ||              new Exemplar
+    component = Class           ||              new Page
+    server.working              ||              find main Errors
