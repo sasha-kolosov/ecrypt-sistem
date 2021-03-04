@@ -190,8 +190,8 @@
 }
 
 .Details__block {
-  width: 30vw;
-  height: 20vh;
+  width: 34vw;
+  height: 22vh;
   padding: 10px;
   border-radius: 5px;
   margin: auto;
@@ -200,26 +200,26 @@
 }
 
 .Details__block-text {
-  width: 20vw;
+  width: 34vw;
   height: 2vh;
   padding-left: 1vw;
-  padding-top: 2vh;
+  padding-top: 4vh;
   font-size: 14px;
 }
 
 .Details__block-date {
-  width: 20vw;
+  width: 34vw;
   height: 2vh;
   padding-left: 1vw;
-  padding-top: 2vh;
+  padding-top: 4vh;
   font-size: 14px;
 }
 
 .Details__block-count {
-  width: 20vw;
+  width: 34vw;
   height: 2vh;
   padding-left: 1vw;
-  padding-top: 2vh;
+  padding-top: 4vh;
   font-size: 14px;
 }
 /*# sourceMappingURL=app.css.map */
