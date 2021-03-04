@@ -22,7 +22,7 @@ const DATA = {
         "Settings",
         "Make a Encryption",
         "Ecrypt",
-        "Chck",
+        "Check",
         "If there is nothing here,",
         "go to the home page",
         "If there is nothing here,",
